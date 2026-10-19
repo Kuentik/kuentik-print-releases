@@ -3,9 +3,9 @@
   <channel>
     <title>Kuentik Print Server · Windows estable</title>
     <item>
-      <title>Kuentik Print Server 0.2.1</title>
+      <title>Kuentik Print Server 0.2.2</title>
       <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/Kuentik/kuentik-print-releases/releases/download/v0.2.1/KuentikPrintServer-Setup-0.2.1.exe" length="37451552" type="application/octet-stream" sparkle:version="0.2.1" sparkle:os="windows-x64" sparkle:edSignature="2QbdDhzki/5pkUrUMwKW9UqO4nBU2tORl8VoW3kTr+mGWMGvl+ksAxWF+vQTEAbPHQuBjrqaKIzhDVObK1niAg==" sparkle:installerArguments="/SILENT /SP- /NORESTART" />
+      <enclosure url="https://github.com/Kuentik/kuentik-print-releases/releases/download/v0.2.2/KuentikPrintServer-Setup-0.2.2.exe" length="37500899" type="application/octet-stream" sparkle:version="0.2.2" sparkle:os="windows-x64" sparkle:edSignature="O8Nci7w9U3tQO3ULfne62Rdm1QPdxSSekDWn7D8pBo+vFnO+pd4iKXhxM517mm2Lj0S3F6gGk7Yb8su8/85hBg==" sparkle:installerArguments="/SILENT /SP- /NORESTART" />
     </item>
   </channel>
 </rss>
